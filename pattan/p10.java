@@ -5,7 +5,6 @@ class pttan10 {
         int n = scn.nextInt();
         int row = 1 , nspaces = n/2 , nstars = -1;
         while(row <= n){
-             
             for(int i = 1 ; i <= nspaces ; i++){
                 System.out.print("\t");
             } 
