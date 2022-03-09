@@ -8,7 +8,7 @@ class pattan1{
             // int n1=n;
             for(int i=1; i<=n; i++ )
             {
-                int nst=n+1-i;
+                int nst=n-i;
                 for(int j=1;j<=nst; j++)
                 {
                     System.out.print("* ");
