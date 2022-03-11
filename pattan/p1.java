@@ -5,7 +5,6 @@ class pattan1{
         Scanner a=new Scanner(System.in);
         
             int n=a.nextInt();
-            // int n1=n;
             for(int i=1; i<=n; i++ )
             {
                 int nst=n-i;
